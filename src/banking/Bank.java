@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
  * @author Hamzah
  * @author Jordan
  * @author Diane
+ * @author Thi
  *
  */
 public class Bank {
